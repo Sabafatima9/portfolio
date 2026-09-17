@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Saba Fatima — Resume</title>
+    <style>
+      :root { color-scheme: light; --ink: #1a1a1a; --muted: #5c5346; --accent: #0d9488; --line: #d8d0c2; --paper: #fffef8; }
+      * { box-sizing: border-box; }
+      body { margin: 0; background: #eee9df; color: var(--ink); font: 15px/1.5 Arial, sans-serif; }
+      main { width: min(850px, calc(100% - 2rem)); margin: .75rem auto 2rem; padding: 2.5rem 3rem; background: var(--paper); box-shadow: 0 5px 24px rgb(26 26 26 / 12%); }
+      header { display: flex; align-items: start; justify-content: space-between; gap: 1.5rem; padding-bottom: 1.2rem; border-bottom: 3px solid var(--ink); }
+      h1 { margin: 0; font: 700 2.5rem/1.05 Georgia, serif; letter-spacing: -.03em; }
+      .headline { margin: .4rem 0 0; color: var(--accent); font-weight: 700; }
+      .contact { max-width: 285px; text-align: right; font-size: .84rem; overflow-wrap: anywhere; }
+      .contact a, a { color: var(--accent); }
+      section { margin-top: 1.45rem; }
+      h2 { margin: 0 0 .55rem; padding-bottom: .25rem; border-bottom: 1px solid var(--line); color: var(--accent); font: 700 .8rem/1.2 Consolas, monospace; letter-spacing: .12em; text-transform: uppercase; }
+      h3 { margin: .85rem 0 .05rem; font-size: 1rem; }
+      p { margin: .25rem 0; }
+      .muted { color: var(--muted); }
+      .item-meta { color: var(--muted); font-size: .86rem; }
+      ul { margin: .25rem 0 0; padding-left: 1.2rem; }
+      li { margin: .14rem 0; }
+      .skills { columns: 3; column-gap: 2rem; }
+      .skills li { break-inside: avoid; }
+      .project { break-inside: avoid; }
+      .project h3 { display: inline; }
+      .project p { display: inline; }
+      .actions { width: min(850px, calc(100% - 2rem)); min-height: 44px; margin: 1rem auto 0; display: flex; justify-content: flex-end; gap: .5rem; }
+      button { min-height: 44px; min-width: 44px; border: 1px solid var(--ink); background: var(--paper); color: var(--ink); padding: .5rem .75rem; cursor: pointer; }
+      @media (max-width: 650px) {
+        .actions { width: calc(100% - 1rem); margin: .5rem auto 0; }
+        main { width: calc(100% - 1rem); margin: .5rem auto 1rem; padding: 1.4rem; }
+        header { display: block; }
+        .contact { margin-top: 1rem; text-align: left; }
+        .skills { columns: 2; }
+      }
+      @media print {
+        body { background: white; }
+        main { width: 100%; max-width: none; margin: 0; padding: 0; box-shadow: none; }
+        .actions { display: none; }
+        a { color: inherit; text-decoration: none; }
+        @page { size: A4; margin: 14mm; }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="actions" aria-label="Resume actions"><button type="button" onclick="window.print()">Print / Save PDF</button></div>
+    <main>
+      <header>
+        <div>
+          <h1>Saba Fatima</h1>
+          <p class="headline">Flutter Developer / AI-ML Enthusiast</p>
+          <p class="muted">AI/ML · DL · NLP · Computer Vision · Flutter &amp; Web Dev</p>
+        </div>
+        <div class="contact">
+          <a href="mailto:sabaaaahussain@gmail.com">sabaaaahussain@gmail.com</a><br>
+          <a href="tel:+923425226178">+92 342 522 6178</a><br>
+          Rawalpindi, Pakistan<br>
+          <a href="https://www.linkedin.com/in/saba-fatima-344a86291">linkedin.com/in/saba-fatima-344a86291</a><br>
+          <a href="https://github.com/Sabafatima9">github.com/Sabafatima9</a>
+        </div>
+      </header>
+
+      <section>
+        <h2>Profile</h2>
+        <p>A passionate Flutter developer with hands-on experience building cross-platform mobile applications for Android and iOS. Skilled in Dart, Flutter widgets, REST API integration, and state management. Focuses on clean, responsive, high-performance apps. Also builds Computer Vision, ML, and Streamlit/Python projects (MediaPipe, OpenCV, RAG/chatbots). Currently pursuing Bachelor's in Information Technology at Rawalpindi Women University.</p>
+      </section>
+
+      <section>
+        <h2>Experience</h2>
+        <div><h3>Mobile App Developer — Developers Hub</h3><span class="item-meta"> · Recent</span><ul><li>Developing cross-platform Flutter applications for Android and iOS.</li><li>Building responsive UIs and integrating REST APIs for live data.</li><li>Implementing state management and Firebase backend services.</li></ul></div>
+        <div><h3>HR Intern — Squad Leader — GaoTek Inc. (USA &amp; Canada)</h3><span class="item-meta"> · 3 Months</span><ul><li>Supervised a team of 15+ interns: hiring, training, and performance monitoring.</li><li>Scheduled daily team meetings and tracked intern work data.</li><li>Conducted employee interviews, job postings, and headhunting.</li><li>Collaborated with international management across time zones.</li></ul></div>
+        <div><h3>Digital Marketing Intern — GaoTek Inc. (USA &amp; Canada)</h3><span class="item-meta"> · 3 Months</span><ul><li>Managed company social media presence across multiple platforms.</li><li>Developed and implemented digital marketing strategies.</li><li>Assisted in email handling, advertising, and content creation.</li></ul></div>
+        <div><h3>Social Media Marketing Intern — Kshitikshaa Foundation</h3><span class="item-meta"> · 1 Month</span></div>
+        <div><h3>Management Trainee — PNY Training</h3></div>
+      </section>
+
+      <section>
+        <h2>Selected projects</h2>
+        <div class="project"><h3><a href="https://github.com/Sabafatima9/HireLens">HireLens</a></h3><p> — Streamlit-powered ATS resume scoring app for instant CV checks against job requirements.</p></div>
+        <div class="project"><h3><a href="https://github.com/Sabafatima9/Smart_Community_Safety_App">Smart Community Safety</a></h3><p> — Flutter + Firebase community safety app with real-time incident reporting, safety maps, and one-tap SOS alerts (offline-first).</p></div>
+        <div class="project"><h3><a href="https://github.com/Sabafatima9/Air-Gesture-Mouse-Control">Air Gesture Mouse</a></h3><p> — Real-time Computer Vision app that controls the mouse cursor with hand gestures via webcam; fully offline with MediaPipe/OpenCV.</p></div>
+        <div class="project"><h3><a href="https://github.com/Sabafatima9/Satellite-Drought-Early-Warning-Detection">Satellite Drought Watch</a></h3><p> — Streamlit dashboard for satellite-based agricultural drought early warning using NDVI, rainfall, and temperature signals with ML severity prediction.</p></div>
+        <div class="project"><h3><a href="https://github.com/Sabafatima9/Unified-Holistic-Skeleton-Tracker">Holistic Skeleton Tracker</a></h3><p> — Real-time holistic tracker combining body, hands, and face landmarks with joint angles and posture analytics.</p></div>
+        <div class="project"><h3><a href="https://github.com/Sabafatima9/Driver-Sleep-Drowsiness-Detection-System">Driver Drowsiness Monitor</a></h3><p> — Driver Monitoring System using PERCLOS, yawn, and head-nod detection with audio-visual alarms and incident CSV logging.</p></div>
+      </section>
+
+      <section>
+        <h2>Education</h2>
+        <div><h3>Rawalpindi Women University</h3><p class="item-meta">Bachelor's in Information Technology (B.S. IT) · 2023 – 2027</p></div>
+        <div><h3>Fazaia Inter College, Rawalpindi</h3><p class="item-meta">Intermediate – Pre-Engineering · 2021 – 2023</p><p class="item-meta">Matriculation – Biology | A+ · 2019 – 2021</p></div>
+      </section>
+
+      <section>
+        <h2>Skills</h2>
+        <ul class="skills">
+          <li>AI/ML</li><li>Android</li><li>C++</li><li>CSS</li><li>Computer Vision</li><li>Dart</li><li>Deep Learning</li><li>Firebase</li><li>Flutter</li><li>Git</li><li>Groq</li><li>HTML</li><li>Jupyter</li><li>MediaPipe</li><li>MySQL</li><li>NLP</li><li>OpenCV</li><li>Pandas</li><li>Plotly</li><li>Provider</li><li>PyGame</li><li>Python</li><li>RAG</li><li>REST APIs</li><li>SharedPreferences</li><li>Streamlit</li><li>Tkinter</li><li>WordPress</li><li>scikit-learn</li>
+        </ul>
+      </section>
+    </main>
+  </body>
+</html>

@@ -1,0 +1,1016 @@
+{
+  "profile": {
+    "login": "Sabafatima9",
+    "name": "Saba Fatima",
+    "bio": "AI/ML | DL | NLP | Computer Vision | Flutter & Web Dev",
+    "company": "Cydaix",
+    "location": "NASTP",
+    "blog": "https://sabafatima9.github.io/saba-portfolio/",
+    "avatar_url": "https://avatars.githubusercontent.com/u/160759273?v=4",
+    "html_url": "https://github.com/Sabafatima9",
+    "followers": 8,
+    "following": 4,
+    "public_repos": 33,
+    "created_at": "2024-02-21T15:35:16Z",
+    "updated_at": "2026-09-10T18:29:04Z"
+  },
+  "contact": {
+    "email": "sabaaaahussain@gmail.com",
+    "phone": "+92 342 522 6178",
+    "location": "Rawalpindi, Pakistan",
+    "linkedin": "https://www.linkedin.com/in/saba-fatima-344a86291",
+    "linkedin_slug": "saba-fatima-344a86291",
+    "github": "https://github.com/Sabafatima9",
+    "portfolio": "https://sabafatima9.github.io/saba-portfolio/"
+  },
+  "about": {
+    "headline": "Flutter Developer / AI-ML Enthusiast",
+    "summary": "A passionate Flutter developer with hands-on experience building cross-platform mobile applications for Android and iOS. Skilled in Dart, Flutter widgets, REST API integration, and state management. Focuses on clean, responsive, high-performance apps. Also builds Computer Vision, ML, and Streamlit/Python projects (MediaPipe, OpenCV, RAG/chatbots). Currently pursuing Bachelor's in Information Technology at Rawalpindi Women University.",
+    "what_i_do": [
+      "Mobile Apps — Cross-platform Flutter for Android and iOS",
+      "UI/UX Design — Pixel-perfect modern designs in Flutter",
+      "API Integration — REST APIs with clean data handling and state management",
+      "Firebase & Backend — Auth, Firestore, cloud functions",
+      "AI/ML & Computer Vision — MediaPipe, OpenCV, Streamlit dashboards, NLP/RAG"
+    ],
+    "github_bio": "AI/ML | DL | NLP | Computer Vision | Flutter & Web Dev"
+  },
+  "education": [
+    {
+      "institution": "Rawalpindi Women University",
+      "degree": "Bachelor's in Information Technology (B.S. IT)",
+      "years": "2023 – 2027"
+    },
+    {
+      "institution": "Fazaia Inter College, Rawalpindi",
+      "degree": "Intermediate – Pre-Engineering",
+      "years": "2021 – 2023"
+    },
+    {
+      "institution": "Fazaia Inter College, Rawalpindi",
+      "degree": "Matriculation – Biology | A+",
+      "years": "2019 – 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Mobile App Developer",
+      "organization": "Developers Hub",
+      "duration": "Recent",
+      "highlights": [
+        "Developing cross-platform Flutter applications for Android and iOS",
+        "Building responsive UIs and integrating REST APIs for live data",
+        "Implementing state management and Firebase backend services"
+      ]
+    },
+    {
+      "title": "HR Intern – Squad Leader",
+      "organization": "GaoTek Inc. – USA & Canada",
+      "duration": "3 Months",
+      "highlights": [
+        "Supervised a team of 15+ interns: hiring, training, and performance monitoring",
+        "Scheduled daily team meetings and tracked intern work data",
+        "Conducted employee interviews, job postings, and headhunting",
+        "Collaborated with international management across time zones"
+      ]
+    },
+    {
+      "title": "Digital Marketing Intern",
+      "organization": "GaoTek Inc. – USA & Canada",
+      "duration": "3 Months",
+      "highlights": [
+        "Managed company social media presence across multiple platforms",
+        "Developed and implemented digital marketing strategies",
+        "Assisted in email handling, advertising, and content creation"
+      ]
+    },
+    {
+      "title": "Social Media Marketing Intern",
+      "organization": "Kshitikshaa Foundation",
+      "duration": "1 Month",
+      "highlights": []
+    },
+    {
+      "title": "Management Trainee",
+      "organization": "PNY Training",
+      "duration": null,
+      "highlights": []
+    }
+  ],
+  "skills": {
+    "from_portfolio": [
+      "Flutter",
+      "Dart",
+      "Firebase",
+      "Android",
+      "Git",
+      "HTML",
+      "CSS",
+      "C++",
+      "MySQL",
+      "WordPress"
+    ],
+    "from_github_bio_and_projects": [
+      "Python",
+      "AI/ML",
+      "Deep Learning",
+      "NLP",
+      "Computer Vision",
+      "MediaPipe",
+      "OpenCV",
+      "Streamlit",
+      "PyGame",
+      "Tkinter",
+      "Jupyter",
+      "RAG",
+      "Groq",
+      "scikit-learn",
+      "Plotly",
+      "Pandas"
+    ],
+    "all": [
+      "AI/ML",
+      "Android",
+      "C++",
+      "CSS",
+      "Computer Vision",
+      "Dart",
+      "Deep Learning",
+      "Firebase",
+      "Flutter",
+      "Git",
+      "Groq",
+      "HTML",
+      "Jupyter",
+      "MediaPipe",
+      "MySQL",
+      "NLP",
+      "OpenCV",
+      "Pandas",
+      "Plotly",
+      "Provider",
+      "PyGame",
+      "Python",
+      "RAG",
+      "REST APIs",
+      "SharedPreferences",
+      "Streamlit",
+      "Tkinter",
+      "WordPress",
+      "scikit-learn"
+    ]
+  },
+  "projects": [
+    {
+      "name": "Air-Gesture-Mouse-Control",
+      "description": "Air Gesture Mouse Control is a real-time Computer Vision application that lets you control your computer's mouse cursor using only your hand — no touching required. Move your index finger in the air to move the cursor, and pinch your thumb and index finger together to click. It works entirely offline using your webcam.",
+      "language": "Python",
+      "stars": 3,
+      "forks": 0,
+      "topics": [],
+      "homepage": null,
+      "created_at": "2026-09-10T05:53:48Z",
+      "updated_at": "2026-09-12T10:34:21Z",
+      "default_branch": "master",
+      "html_url": "https://github.com/Sabafatima9/Air-Gesture-Mouse-Control",
+      "size_kb": 15598,
+      "is_stub": false,
+      "has_readme": true,
+      "summary": "Real-time Computer Vision app that controls the mouse cursor with hand gestures via webcam—move with the index finger and pinch to click. Fully offline with MediaPipe/OpenCV.",
+      "tech_stack": [
+        "Python",
+        "MediaPipe",
+        "OpenCV",
+        "Tkinter"
+      ],
+      "notable_features": [
+        "Air mouse cursor control",
+        "Pinch-to-click gesture",
+        "Offline webcam processing",
+        "Cross-platform (Windows/Linux/macOS)"
+      ]
+    },
+    {
+      "name": "bank_account_management-Week2Tech4Edges",
+      "description": null,
+      "language": "Dart",
+      "stars": 3,
+      "forks": 0,
+      "topics": [],
+      "homepage": null,
+      "created_at": "2026-07-26T09:09:10Z",
+      "updated_at": "2026-09-11T06:59:27Z",
+      "default_branch": "main",
+      "html_url": "https://github.com/Sabafatima9/bank_account_management-Week2Tech4Edges",
+      "size_kb": 397,
+      "is_stub": false,
+      "has_readme": true,
+      "summary": "Dart OOP console app for bank accounts—deposit, withdraw, balance—with Savings/Current inheritance (Tech4Edges Week 2).",
+      "tech_stack": [
+        "Dart"
+      ],
+      "notable_features": [
+        "Deposit/withdraw/balance",
+        "Savings & Current inheritance",
+        "Terminal UI"
+      ]
+    },
+    {
+      "name": "Face-Skeleton-Cyber-Mesh-Tracker",
+      "description": "Face Skeleton & Cyber Mesh Tracker is a real-time desktop Computer Vision app built with MediaPipe, OpenCV, and Tkinter. It maps 468/478 3D facial landmarks onto the live camera feed, renders a futuristic cyber-mesh wireframe over the face, and computes real-time head pose (Pitch, Yaw, Roll) along with blink, smile, and mouth-aspect telemetry.",
+      "language": "Python",
+      "stars": 3,
+      "forks": 0,
+      "topics": [],
+      "homepage": null,
+      "created_at": "2026-09-09T05:46:56Z",
+      "updated_at": "2026-09-11T06:58:49Z",
+      "default_branch": "master",
+      "html_url": "https://github.com/Sabafatima9/Face-Skeleton-Cyber-Mesh-Tracker",
+      "size_kb": 3272,
+      "is_stub": false,
+      "has_readme": true,
+      "summary": "Real-time desktop CV app that maps 468/478 3D facial landmarks, renders a cyber-mesh wireframe, and computes head pose (Pitch/Yaw/Roll) plus blink, smile, and mouth-aspect telemetry.",
+      "tech_stack": [
+        "Python",
+        "MediaPipe",
+        "OpenCV",
+        "Tkinter"
+      ],
+      "notable_features": [
+        "468 3D facial landmarks",
+        "Cyber-mesh wireframe overlay",
+        "Head pose estimation",
+        "Blink and smile detection"
+      ]
+    },
+    {
+      "name": "Flappy_Bird_PyGame",
+      "description": "A modern reimagining of the classic Flappy Bird arcade game — built from scratch in Python using PyGame. Navigate a bird through procedurally generated pipes, collect shiny coins for bonus points, and compete against your own high score. Smooth physics, sprite animations, background music & sound effects bring the retro experience to life.",
+      "language": "Python",
+      "stars": 3,
+      "forks": 0,
+      "topics": [],
+      "homepage": null,
+      "created_at": "2026-07-18T19:47:51Z",
+      "updated_at": "2026-09-11T06:59:21Z",
+      "default_branch": "main",
+      "html_url": "https://github.com/Sabafatima9/Flappy_Bird_PyGame",
+      "size_kb": 4923,
+      "is_stub": false,
+      "has_readme": true,
+      "summary": "Modern Flappy Bird remake in PyGame with procedurally generated pipes, coin collection, high scores, sprite animations, and sound effects.",
+      "tech_stack": [
+        "Python",
+        "PyGame"
+      ],
+      "notable_features": [
+        "Procedural pipes",
+        "Coin bonuses",
+        "High score tracking",
+        "Music and SFX"
+      ]
+    },
+    {
+      "name": "GTA-V-Worldwide-Sales-Player-Analytics",
+      "description": null,
+      "language": "Python",
+      "stars": 3,
+      "forks": 0,
+      "topics": [],
+      "homepage": null,
+      "created_at": "2026-07-31T06:13:32Z",
+      "updated_at": "2026-09-11T06:59:25Z",
+      "default_branch": "master",
+      "html_url": "https://github.com/Sabafatima9/GTA-V-Worldwide-Sales-Player-Analytics",
+      "size_kb": 1214,
+      "is_stub": false,
+      "has_readme": true,
+      "summary": "Interactive analytics dashboard for GTA V worldwide sales and player trends across countries with maps, filters, and KPI cards.",
+      "tech_stack": [
+        "Python",
+        "Plotly",
+        "Pandas"
+      ],
+      "notable_features": [
+        "88 countries coverage",
+        "Interactive world map",
+        "Revenue/units/player KPIs"
+      ]
+    },
+    {
+      "name": "Hand-Skeleton-Tracker-i",
+      "description": "Hand Skeleton Tracker is a real-time desktop Computer Vision app built with MediaPipe, OpenCV, and Tkinter. It precisely tracks 21 3D hand landmarks per hand — Wrist, Thumb, Index, Middle, Ring, and Pinky joints — and renders a glowing futuristic skeleton overlay, complete with live pinch-gesture (thumb-to-index) distance measurement.",
+      "language": "Python",
+      "stars": 3,
+      "forks": 0,
+      "topics": [],
+      "homepage": null,
+      "created_at": "2026-09-09T07:07:22Z",
+      "updated_at": "2026-09-11T06:58:44Z",
+      "default_branch": "main",
+      "html_url": "https://github.com/Sabafatima9/Hand-Skeleton-Tracker-i",
+      "size_kb": 5913,
+      "is_stub": false,
+      "has_readme": true,
+      "summary": "Real-time desktop CV app tracking 21 3D hand landmarks per hand with a glowing skeleton overlay and live pinch-gesture distance measurement.",
+      "tech_stack": [
+        "Python",
+        "MediaPipe",
+        "OpenCV",
+        "Tkinter"
+      ],
+      "notable_features": [
+        "21 3D hand landmarks",
+        "Dual-hand support",
+        "Pinch distance measurement",
+        "Glowing skeleton overlay"
+      ]
+    },
+    {
+      "name": "HireLens",
+      "description": "HireLens — Streamlit-powered ATS resume scoring app. Instant CV checks for applicants, bulk screening + automated rejection emails for HR.",
+      "language": "Python",
+      "stars": 3,
+      "forks": 0,
+      "topics": [],
+      "homepage": null,
+      "created_at": "2026-08-01T13:46:21Z",
+      "updated_at": "2026-09-11T06:59:12Z",
+      "default_branch": "master",
+      "html_url": "https://github.com/Sabafatima9/HireLens",
+      "size_kb": 504,
+      "is_stub": false,
+      "has_readme": true,
+      "summary": "Streamlit-powered ATS resume scoring app for instant CV checks against job requirements.",
+      "tech_stack": [
+        "Python",
+        "Streamlit"
+      ],
+      "notable_features": [
+        "ATS-style resume scoring",
+        "Instant CV checks",
+        "Streamlit UI"
+      ]
+    },
+    {
+      "name": "Practice_Advanced_python_with_jupyterNotebook",
+      "description": "This repository contains my hands-on Python practice using Jupyter Notebook. It includes well-structured notebooks with practical examples, exercises, and clear documentation as I learn Python from basics to advanced concepts. The goal of this repo is to build strong Python fundamentals, practice regularly, and share my learning journey publicly.",
+      "language": "Jupyter Notebook",
+      "stars": 3,
+      "forks": 0,
+      "topics": [],
+      "homepage": null,
+      "created_at": "2026-07-13T18:18:07Z",
+      "updated_at": "2026-09-11T06:59:35Z",
+      "default_branch": "main",
+      "html_url": "https://github.com/Sabafatima9/Practice_Advanced_python_with_jupyterNotebook",
+      "size_kb": 35,
+      "is_stub": false,
+      "has_readme": true,
+      "summary": "Hands-on advanced Python practice notebooks covering deeper language features beyond the basics.",
+      "tech_stack": [
+        "Python",
+        "Jupyter"
+      ],
+      "notable_features": [
+        "Advanced Python exercises",
+        "Jupyter notebooks"
+      ]
+    },
+    {
+      "name": "Practice_python_with_jupyterNotebook",
+      "description": "Jupyter NoteBooks to get you boosted with the basics of python with hands-on-practice",
+      "language": "Jupyter Notebook",
+      "stars": 3,
+      "forks": 0,
+      "topics": [],
+      "homepage": null,
+      "created_at": "2026-07-13T16:43:50Z",
+      "updated_at": "2026-09-11T06:59:34Z",
+      "default_branch": "main",
+      "html_url": "https://github.com/Sabafatima9/Practice_python_with_jupyterNotebook",
+      "size_kb": 50,
+      "is_stub": false,
+      "has_readme": true,
+      "summary": "Jupyter notebooks teaching Python basics with hands-on practice from fundamentals toward OOP and file handling.",
+      "tech_stack": [
+        "Python",
+        "Jupyter"
+      ],
+      "notable_features": [
+        "Basics to OOP",
+        "File handling practice"
+      ]
+    },
+    {
+      "name": "qr-nova",
+      "description": "QR Nova is a sleek, dark-themed QR Code Generator built entirely in Python using Tkinter. Type in any text or URL and instantly generate a fully customizable QR code — pick your own colors, error correction level, and even embed a logo right in the center. ",
+      "language": "TeX",
+      "stars": 3,
+      "forks": 0,
+      "topics": [],
+      "homepage": null,
+      "created_at": "2026-07-20T07:13:23Z",
+      "updated_at": "2026-09-11T06:59:31Z",
+      "default_branch": "main",
+      "html_url": "https://github.com/Sabafatima9/qr-nova",
+      "size_kb": 22911,
+      "is_stub": false,
+      "has_readme": true,
+      "summary": "Dark-themed QR Code Generator in Python/Tkinter with custom colors, embedded logos, PNG export, clipboard copy, and generation history.",
+      "tech_stack": [
+        "Python",
+        "Tkinter"
+      ],
+      "notable_features": [
+        "Custom colors and logos",
+        "PNG save / clipboard",
+        "Generation history"
+      ]
+    },
+    {
+      "name": "saba-portfolio",
+      "description": " My Flutter Developer Portfolio",
+      "language": "HTML",
+      "stars": 3,
+      "forks": 0,
+      "topics": [],
+      "homepage": null,
+      "created_at": "2026-06-27T09:31:58Z",
+      "updated_at": "2026-09-11T06:59:40Z",
+      "default_branch": "main",
+      "html_url": "https://github.com/Sabafatima9/saba-portfolio",
+      "size_kb": 1792,
+      "is_stub": false,
+      "has_readme": true,
+      "summary": "Personal Flutter developer portfolio website (HTML/CSS/JS) hosted on GitHub Pages with about, skills, education, experience, and contact.",
+      "tech_stack": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "notable_features": [
+        "About/skills/education/experience",
+        "Contact links",
+        "GitHub Pages deploy"
+      ]
+    },
+    {
+      "name": "Sabafatima9",
+      "description": null,
+      "language": null,
+      "stars": 3,
+      "forks": 0,
+      "topics": [],
+      "homepage": null,
+      "created_at": "2026-07-10T19:31:36Z",
+      "updated_at": "2026-09-11T06:59:23Z",
+      "default_branch": "main",
+      "html_url": "https://github.com/Sabafatima9/Sabafatima9",
+      "size_kb": 2862,
+      "is_stub": false,
+      "has_readme": true,
+      "summary": "I love turning ideas into clean, functional, and user-friendly applications. My primary focus is Flutter, where I enjoy building modern mobile apps with clean architecture and intuitive UI. I also build responsive WordPress websites and am currently exploring the exciting world of Artificial Intelligence with Python. Always learning, always building.",
+      "tech_stack": [
+        "Python",
+        "Flutter",
+        "Dart",
+        "Streamlit",
+        "Firebase",
+        "Firestore",
+        "TensorFlow",
+        "scikit-learn",
+        "MySQL",
+        "WordPress",
+        "Jupyter",
+        "NumPy",
+        "Pandas",
+        "mvvm",
+        "API"
+      ],
+      "notable_features": [
+        "🔐 Firebase Authentication & Firestore backend",
+        "📴 Offline-first storage with Hive / SQLite",
+        "📍 GPS-based incident reporting & live safety maps",
+        "🆘 One-tap SOS alerts & real-time community updates"
+      ]
+    },
+    {
+      "name": "Smart_Community_Safety_App",
+      "description": null,
+      "language": "Dart",
+      "stars": 3,
+      "forks": 0,
+      "topics": [],
+      "homepage": null,
+      "created_at": "2026-01-12T14:48:25Z",
+      "updated_at": "2026-09-11T06:59:38Z",
+      "default_branch": "master",
+      "html_url": "https://github.com/Sabafatima9/Smart_Community_Safety_App",
+      "size_kb": 383,
+      "is_stub": false,
+      "has_readme": true,
+      "summary": "Flutter + Firebase community safety app with real-time incident reporting, safety maps, and one-tap SOS alerts (offline-first).",
+      "tech_stack": [
+        "Flutter",
+        "Dart",
+        "Firebase"
+      ],
+      "notable_features": [
+        "Incident reporting",
+        "Safety maps",
+        "One-tap SOS",
+        "Offline-first"
+      ]
+    },
+    {
+      "name": "Student_analyzer_management_system-Week1Tech4Edges",
+      "description": null,
+      "language": "Dart",
+      "stars": 3,
+      "forks": 0,
+      "topics": [],
+      "homepage": null,
+      "created_at": "2026-07-26T09:05:27Z",
+      "updated_at": "2026-09-11T06:59:28Z",
+      "default_branch": "main",
+      "html_url": "https://github.com/Sabafatima9/Student_analyzer_management_system-Week1Tech4Edges",
+      "size_kb": 213,
+      "is_stub": false,
+      "has_readme": true,
+      "summary": "Pure Dart console student result management: take marks, calculate, grade, and display (Tech4Edges Week 1).",
+      "tech_stack": [
+        "Dart"
+      ],
+      "notable_features": [
+        "Marks to grade pipeline",
+        "Zero dependencies",
+        "Clean terminal UI"
+      ]
+    },
+    {
+      "name": "Attendance-Through-Face-Recognition",
+      "description": "FaceRoll is a real-time face recognition system built with OpenCV and the face_recognition library (dlib-based). It learns a set of known faces from a folder of student photos, then opens a live webcam feed and identifies each face it sees on screen — drawing a green box + name for recognized students  ",
+      "language": "Jupyter Notebook",
+      "stars": 2,
+      "forks": 0,
+      "topics": [],
+      "homepage": null,
+      "created_at": "2026-08-19T07:00:47Z",
+      "updated_at": "2026-09-11T06:59:08Z",
+      "default_branch": "master",
+      "html_url": "https://github.com/Sabafatima9/Attendance-Through-Face-Recognition",
+      "size_kb": 73,
+      "is_stub": false,
+      "has_readme": true,
+      "summary": "FaceRoll — real-time student face recognition attendance with OpenCV and face_recognition; encodes faces from photos and flags unknowns live.",
+      "tech_stack": [
+        "Python",
+        "OpenCV",
+        "face_recognition",
+        "Jupyter"
+      ],
+      "notable_features": [
+        "Encode student faces from photos",
+        "Live webcam recognition",
+        "Unknown face flagging"
+      ]
+    },
+    {
+      "name": "chat_bot",
+      "description": "Chat Bot is a general-purpose AI assistant built with Streamlit for the UI and Groq's gpt-oss-120b model for responses. Ask it anything — general knowledge, writing help, code, explanations — and get fast, streamed answers in a clean chat interface.",
+      "language": "Python",
+      "stars": 2,
+      "forks": 0,
+      "topics": [],
+      "homepage": null,
+      "created_at": "2026-09-02T05:22:25Z",
+      "updated_at": "2026-09-11T06:58:54Z",
+      "default_branch": "master",
+      "html_url": "https://github.com/Sabafatima9/chat_bot",
+      "size_kb": 11,
+      "is_stub": false,
+      "has_readme": true,
+      "summary": "Multi-model AI Chat Helper built with Streamlit and Groq, supporting docs and vision capabilities in a dark-themed UI.",
+      "tech_stack": [
+        "Python",
+        "Streamlit",
+        "Groq"
+      ],
+      "notable_features": [
+        "Multi-model Groq backend",
+        "Document chat",
+        "Vision support"
+      ]
+    },
+    {
+      "name": "Driver-Sleep-Drowsiness-Detection-System",
+      "description": "Driver Sleep & Drowsiness Detection System (DMS) is a real-time Computer Vision app built with MediaPipe, OpenCV, and Tkinter. It performs multi-factor fatigue analysis (eye closure, yawning, and head slumps) and computes a scientific PERCLOS score. The system triggers flashing alerts and audio alarms on live webcam or recorded footage.",
+      "language": "Python",
+      "stars": 2,
+      "forks": 0,
+      "topics": [],
+      "homepage": null,
+      "created_at": "2026-09-10T04:48:30Z",
+      "updated_at": "2026-09-11T06:58:36Z",
+      "default_branch": "main",
+      "html_url": "https://github.com/Sabafatima9/Driver-Sleep-Drowsiness-Detection-System",
+      "size_kb": 18,
+      "is_stub": false,
+      "has_readme": true,
+      "summary": "Driver Monitoring System (DMS) using PERCLOS, yawn, and head-nod detection with audio-visual alarms and incident CSV logging.",
+      "tech_stack": [
+        "Python",
+        "MediaPipe",
+        "OpenCV"
+      ],
+      "notable_features": [
+        "PERCLOS fatigue scoring",
+        "Yawn and head-nod detection",
+        "Audio-visual safety alarms",
+        "Incident logging"
+      ]
+    },
+    {
+      "name": "Expense_Tracker_App-Week4Tech4Edges-",
+      "description": "Personal Expense Tracker is a Flutter application that helps users manage their daily expenses — add, edit, and delete transactions, see running totals, and keep everything saved locally on the device using Shared Preferences, with app-wide state managed through Provider.",
+      "language": "Dart",
+      "stars": 2,
+      "forks": 0,
+      "topics": [],
+      "homepage": null,
+      "created_at": "2026-09-02T04:43:53Z",
+      "updated_at": "2026-09-11T06:58:58Z",
+      "default_branch": "master",
+      "html_url": "https://github.com/Sabafatima9/Expense_Tracker_App-Week4Tech4Edges-",
+      "size_kb": 279,
+      "is_stub": false,
+      "has_readme": true,
+      "summary": "Flutter personal expense tracker with add/edit/delete, totals, Provider state management, and SharedPreferences local persistence.",
+      "tech_stack": [
+        "Flutter",
+        "Dart",
+        "Provider",
+        "SharedPreferences"
+      ],
+      "notable_features": [
+        "CRUD expenses",
+        "Local persistence",
+        "Totals at a glance"
+      ]
+    },
+    {
+      "name": "Satellite-Drought-Early-Warning-Detection",
+      "description": "A Streamlit dashboard for the Satellite-Based Agricultural Drought Early Warning System. Visualizes NDVI/VCI/rainfall/temperature trends and predicts drought severity (Normal / Mild / Moderate / Severe) using a Random Forest model.",
+      "language": "Jupyter Notebook",
+      "stars": 2,
+      "forks": 0,
+      "topics": [],
+      "homepage": null,
+      "created_at": "2026-08-25T05:16:50Z",
+      "updated_at": "2026-09-11T06:59:06Z",
+      "default_branch": "master",
+      "html_url": "https://github.com/Sabafatima9/Satellite-Drought-Early-Warning-Detection",
+      "size_kb": 7973,
+      "is_stub": false,
+      "has_readme": true,
+      "summary": "DroughtWatch — Streamlit dashboard for satellite-based agricultural drought early warning using NDVI, rainfall, and temperature signals with ML severity prediction.",
+      "tech_stack": [
+        "Python",
+        "Streamlit",
+        "Jupyter",
+        "NDVI"
+      ],
+      "notable_features": [
+        "District-level drought risk",
+        "NDVI + rainfall + temperature",
+        "ML drought severity prediction",
+        "Downloadable datasets"
+      ]
+    },
+    {
+      "name": "Student_Directory_App-Week3Tech4Edges",
+      "description": "A Flutter app that lists students, lets you search by name, add a new student through a validated form, and view full details for any student.",
+      "language": "C++",
+      "stars": 2,
+      "forks": 0,
+      "topics": [],
+      "homepage": null,
+      "created_at": "2026-09-01T17:41:00Z",
+      "updated_at": "2026-09-11T06:58:59Z",
+      "default_branch": "master",
+      "html_url": "https://github.com/Sabafatima9/Student_Directory_App-Week3Tech4Edges",
+      "size_kb": 276,
+      "is_stub": false,
+      "has_readme": true,
+      "summary": "Flutter student directory with search, validated add forms, profile views, and reusable widgets (listed language may show C++ from native bits).",
+      "tech_stack": [
+        "Flutter",
+        "Dart"
+      ],
+      "notable_features": [
+        "Browse and search students",
+        "Validated forms",
+        "Reusable widgets"
+      ]
+    },
+    {
+      "name": "tic_tac_toe",
+      "description": "Tic Tac Toe is a polished, browser-based version of the classic game built entirely with Streamlit. Play locally with a friend, or challenge a computer opponent powered by the minimax algorithm — with three difficulty levels ranging from a coin-flip to a mathematically unbeatable AI",
+      "language": "Python",
+      "stars": 2,
+      "forks": 0,
+      "topics": [],
+      "homepage": null,
+      "created_at": "2026-08-01T14:39:29Z",
+      "updated_at": "2026-09-11T06:59:18Z",
+      "default_branch": "main",
+      "html_url": "https://github.com/Sabafatima9/tic_tac_toe",
+      "size_kb": 9,
+      "is_stub": false,
+      "has_readme": true,
+      "summary": "Browser/Streamlit Tic Tac Toe with PvP and unbeatable AI modes, animated UI, and persistent scoreboard.",
+      "tech_stack": [
+        "Python",
+        "Streamlit"
+      ],
+      "notable_features": [
+        "Player vs Player",
+        "Unbeatable AI",
+        "Persistent scoreboard"
+      ]
+    },
+    {
+      "name": "Footstep-Calculator-Gait-Tracker",
+      "description": "Footstep Calculator & Gait Tracker is a real-time Computer Vision app built with MediaPipe, OpenCV, and Tkinter. It analyzes walking gait from video or webcam by detecting footsteps, stance/swing phases, and ground strikes via ankle/heel velocity analysis. Features include an animated ripple wave, oscilloscope waveform, and live cadence metrics.",
+      "language": "Python",
+      "stars": 1,
+      "forks": 0,
+      "topics": [],
+      "homepage": null,
+      "created_at": "2026-09-10T04:43:28Z",
+      "updated_at": "2026-09-11T06:58:41Z",
+      "default_branch": "main",
+      "html_url": "https://github.com/Sabafatima9/Footstep-Calculator-Gait-Tracker",
+      "size_kb": 17,
+      "is_stub": false,
+      "has_readme": true,
+      "summary": "Real-time gait analytics app detecting footsteps, cadence (SPM), stride metrics, and knee flexion angles with CSV export.",
+      "tech_stack": [
+        "Python",
+        "MediaPipe",
+        "OpenCV"
+      ],
+      "notable_features": [
+        "Live footstep detection",
+        "SPM and gait oscilloscope",
+        "Knee flexion angles",
+        "CSV report export"
+      ]
+    },
+    {
+      "name": "shoe_pred",
+      "description": "A clean, modern Streamlit dashboard that predicts a person's shoe size from their height, weight, and gender using a trained Linear Regression model.",
+      "language": "Python",
+      "stars": 1,
+      "forks": 0,
+      "topics": [],
+      "homepage": null,
+      "created_at": "2026-08-13T06:00:55Z",
+      "updated_at": "2026-09-11T06:59:11Z",
+      "default_branch": "master",
+      "html_url": "https://github.com/Sabafatima9/shoe_pred",
+      "size_kb": 1650,
+      "is_stub": false,
+      "has_readme": true,
+      "summary": "Streamlit dashboard that predicts shoe size from height, weight, and gender using a trained Linear Regression model, with dark glassmorphism UI and model metrics.",
+      "tech_stack": [
+        "Python",
+        "Streamlit",
+        "scikit-learn",
+        "Linear Regression"
+      ],
+      "notable_features": [
+        "Real-time prediction",
+        "R²/MAE/RMSE metrics panel",
+        "Glassmorphism UI"
+      ]
+    },
+    {
+      "name": "Unified-Holistic-Skeleton-Tracker",
+      "description": "Unified Holistic Skeleton Tracker is the flagship real-time Computer Vision app of this suite, built with MediaPipe, OpenCV, and Tkinter. It simultaneously tracks Body (33 landmarks), Hands (42 landmarks), and Face (468 landmarks) in a single live pipeline.",
+      "language": "Python",
+      "stars": 1,
+      "forks": 0,
+      "topics": [],
+      "homepage": null,
+      "created_at": "2026-09-10T04:38:51Z",
+      "updated_at": "2026-09-11T06:58:42Z",
+      "default_branch": "main",
+      "html_url": "https://github.com/Sabafatima9/Unified-Holistic-Skeleton-Tracker",
+      "size_kb": 10807,
+      "is_stub": false,
+      "has_readme": true,
+      "summary": "Flagship real-time holistic tracker combining body (33), hands (42), and face (468) landmarks with joint angles and posture analytics in one MediaPipe/OpenCV desktop app.",
+      "tech_stack": [
+        "Python",
+        "MediaPipe",
+        "OpenCV",
+        "Tkinter"
+      ],
+      "notable_features": [
+        "Body + hands + face in one view",
+        "Joint angle and posture metrics",
+        "Real-time webcam overlay"
+      ]
+    },
+    {
+      "name": "testing_github",
+      "description": null,
+      "language": "Jupyter Notebook",
+      "stars": 3,
+      "forks": 0,
+      "topics": [],
+      "homepage": null,
+      "created_at": "2026-07-03T06:31:18Z",
+      "updated_at": "2026-09-11T06:59:39Z",
+      "default_branch": "master",
+      "html_url": "https://github.com/Sabafatima9/testing_github",
+      "size_kb": 4,
+      "is_stub": true,
+      "has_readme": false,
+      "summary": null,
+      "tech_stack": [
+        "Jupyter Notebook"
+      ],
+      "notable_features": []
+    },
+    {
+      "name": "Doc_Chatbot",
+      "description": "A Retrieval-Augmented Generation (RAG) chatbot that answers questions about a document you upload (PDF, DOCX, or TXT). No LLM training happens here — a pretrained embedding model finds the relevant parts of your document, and a pretrained LLM (Claude, via the Anthropic API) answers using only that retrieved context, citing the source file and page.",
+      "language": null,
+      "stars": 2,
+      "forks": 0,
+      "topics": [],
+      "homepage": null,
+      "created_at": "2026-09-03T06:13:48Z",
+      "updated_at": "2026-09-11T06:58:52Z",
+      "default_branch": "main",
+      "html_url": "https://github.com/Sabafatima9/Doc_Chatbot",
+      "size_kb": 0,
+      "is_stub": true,
+      "has_readme": false,
+      "summary": "Retrieval-Augmented Generation (RAG) chatbot that answers questions about uploaded documents.",
+      "tech_stack": [
+        "Python",
+        "RAG"
+      ],
+      "notable_features": [
+        "RAG over documents",
+        "Q&A on uploaded docs"
+      ]
+    },
+    {
+      "name": "Flutter-Internship-Week-1",
+      "description": null,
+      "language": null,
+      "stars": 2,
+      "forks": 0,
+      "topics": [],
+      "homepage": null,
+      "created_at": "2025-12-23T18:11:52Z",
+      "updated_at": "2026-08-01T15:38:40Z",
+      "default_branch": "main",
+      "html_url": "https://github.com/Sabafatima9/Flutter-Internship-Week-1",
+      "size_kb": 281,
+      "is_stub": true,
+      "has_readme": true,
+      "summary": null,
+      "tech_stack": [],
+      "notable_features": []
+    },
+    {
+      "name": "Flutter-Internship-Week-2",
+      "description": null,
+      "language": null,
+      "stars": 2,
+      "forks": 0,
+      "topics": [],
+      "homepage": null,
+      "created_at": "2025-12-23T18:24:14Z",
+      "updated_at": "2026-08-01T15:38:39Z",
+      "default_branch": "main",
+      "html_url": "https://github.com/Sabafatima9/Flutter-Internship-Week-2",
+      "size_kb": 268,
+      "is_stub": true,
+      "has_readme": true,
+      "summary": null,
+      "tech_stack": [],
+      "notable_features": []
+    },
+    {
+      "name": "Flutter-Internship-Week-3",
+      "description": null,
+      "language": null,
+      "stars": 2,
+      "forks": 0,
+      "topics": [],
+      "homepage": null,
+      "created_at": "2025-12-23T18:30:47Z",
+      "updated_at": "2026-08-01T15:38:37Z",
+      "default_branch": "main",
+      "html_url": "https://github.com/Sabafatima9/Flutter-Internship-Week-3",
+      "size_kb": 1,
+      "is_stub": true,
+      "has_readme": false,
+      "summary": null,
+      "tech_stack": [],
+      "notable_features": []
+    },
+    {
+      "name": "plant-identification-model",
+      "description": null,
+      "language": null,
+      "stars": 2,
+      "forks": 0,
+      "topics": [],
+      "homepage": null,
+      "created_at": "2026-08-27T05:37:31Z",
+      "updated_at": "2026-09-11T06:59:03Z",
+      "default_branch": "main",
+      "html_url": "https://github.com/Sabafatima9/plant-identification-model",
+      "size_kb": 0,
+      "is_stub": true,
+      "has_readme": false,
+      "summary": null,
+      "tech_stack": [],
+      "notable_features": []
+    },
+    {
+      "name": "Stemfy-App",
+      "description": null,
+      "language": null,
+      "stars": 2,
+      "forks": 0,
+      "topics": [],
+      "homepage": null,
+      "created_at": "2026-08-26T17:51:03Z",
+      "updated_at": "2026-09-11T06:59:04Z",
+      "default_branch": "main",
+      "html_url": "https://github.com/Sabafatima9/Stemfy-App",
+      "size_kb": 0,
+      "is_stub": true,
+      "has_readme": false,
+      "summary": null,
+      "tech_stack": [],
+      "notable_features": []
+    },
+    {
+      "name": "car_race_pygame",
+      "description": null,
+      "language": null,
+      "stars": 1,
+      "forks": 0,
+      "topics": [],
+      "homepage": null,
+      "created_at": "2026-08-01T16:48:18Z",
+      "updated_at": "2026-09-11T06:59:13Z",
+      "default_branch": "main",
+      "html_url": "https://github.com/Sabafatima9/car_race_pygame",
+      "size_kb": 0,
+      "is_stub": true,
+      "has_readme": false,
+      "summary": null,
+      "tech_stack": [],
+      "notable_features": []
+    },
+    {
+      "name": "snake_pygame",
+      "description": null,
+      "language": null,
+      "stars": 1,
+      "forks": 0,
+      "topics": [],
+      "homepage": null,
+      "created_at": "2026-08-01T16:47:43Z",
+      "updated_at": "2026-09-11T06:59:15Z",
+      "default_branch": "main",
+      "html_url": "https://github.com/Sabafatima9/snake_pygame",
+      "size_kb": 0,
+      "is_stub": true,
+      "has_readme": false,
+      "summary": null,
+      "tech_stack": [],
+      "notable_features": []
+    }
+  ],
+  "meta": {
+    "source_github": "https://github.com/Sabafatima9",
+    "source_portfolio": "https://sabafatima9.github.io/saba-portfolio/",
+    "total_public_repos": 33,
+    "repos_with_readme": 26,
+    "featured_non_stub": 24,
+    "scraped_at": "2026-09-12"
+  }
+}
