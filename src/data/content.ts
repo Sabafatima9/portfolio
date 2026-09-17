@@ -139,6 +139,13 @@ const CURATED: Record<string, CuratedProject> = {
     features: ['PERCLOS fatigue scoring', 'Yawn and head-nod detection', 'Audio-visual safety alarms', 'Incident logging'],
     art: 'drowsiness',
   },
+  Move2Wake: {
+    title: 'Move2Wake',
+    category: 'Computer Vision',
+    pitch: 'A desktop alarm that keeps ringing until a webcam pose tracker catches you dancing for 10 seconds.',
+    features: ['Dance-for-10-seconds to silence alarm', 'Decaying progress meter defeats idle cheating', 'Tkinter dashboard with persistent saved alarms', 'CLI one-shot alarm mode'],
+    art: 'move2wake',
+  },
 }
 
 // The gallery's narrative order is intentional: lead with the hiring tool,
@@ -150,6 +157,7 @@ const FEATURED_ORDER = [
   'Satellite-Drought-Early-Warning-Detection',
   'Unified-Holistic-Skeleton-Tracker',
   'Driver-Sleep-Drowsiness-Detection-System',
+  'Move2Wake',
 ] as const
 
 function inferCategory(project: Project): GalleryProject['category'] {

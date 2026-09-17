@@ -1003,6 +1003,35 @@
       "summary": null,
       "tech_stack": [],
       "notable_features": []
+    },
+    {
+      "name": "Move2Wake",
+      "description": "Move2Wake is a desktop alarm that forces you to dance. The alarm rings until its webcam-based MediaPipe Pose tracker detects 10 continuous seconds of physical movement. Featuring no snooze button, it includes a CLI for quick one-shot alerts and a Tkinter dashboard to manage multiple saved alarms.",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "homepage": null,
+      "created_at": "2026-09-15T18:29:41Z",
+      "updated_at": "2026-09-16T17:31:21Z",
+      "default_branch": "master",
+      "html_url": "https://github.com/Sabafatima9/Move2Wake",
+      "size_kb": 17,
+      "is_stub": false,
+      "has_readme": true,
+      "summary": "Desktop alarm that keeps ringing until a webcam-based MediaPipe Pose tracker detects 10 continuous seconds of dancing, with a Tkinter dashboard and CLI for one-shot alerts.",
+      "tech_stack": [
+        "Python",
+        "MediaPipe",
+        "OpenCV",
+        "Tkinter"
+      ],
+      "notable_features": [
+        "Dance-for-10-seconds to silence alarm",
+        "Decaying progress meter defeats idle cheating",
+        "Tkinter dashboard with persistent saved alarms",
+        "CLI one-shot alarm mode"
+      ]
     }
   ],
   "meta": {

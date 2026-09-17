@@ -114,6 +114,29 @@ function DrowsinessArt() {
   </Base>
 }
 
+function Move2WakeArt() {
+  return <Base>
+    <rect x="86" y="75" width="270" height="174" rx="12" fill="var(--plaque)" stroke="var(--border-soft)" strokeWidth="3" />
+    <circle cx="212" cy="118" r="13" fill="var(--accent)" />
+    <path d="M212 131v47M212 142l-36-22M212 142l40-8M212 178l-28 40M212 178l34 36" {...lineProps} stroke="var(--accent)" strokeWidth="4" />
+    <circle cx="176" cy="120" r="5" fill="var(--accent)" />
+    <circle cx="252" cy="134" r="5" fill="var(--accent)" />
+    <circle cx="184" cy="218" r="5" fill="var(--accent)" />
+    <circle cx="246" cy="214" r="5" fill="var(--accent)" />
+    <path d="M298 104c4 9 4 15 0 22m10-30c7 11 7 21 0 32" fill="none" stroke="var(--accent)" strokeWidth="3" />
+    <circle cx="322" cy="128" r="7" fill="var(--ink)" />
+    <path d="M329 128v-32l16-5" fill="none" stroke="var(--ink)" strokeWidth="3" />
+    <rect x="112" y="218" width="218" height="15" rx="7" fill="var(--paper)" stroke="var(--ink)" strokeWidth="3" />
+    <rect x="116" y="222" width="150" height="7" rx="3" fill="var(--accent)" />
+    <text x="221" y="264" textAnchor="middle" fill="var(--muted)" fontSize="13">dance meter · 10s</text>
+    <circle cx="470" cy="150" r="48" fill="var(--plaque)" stroke="var(--accent)" strokeWidth="6" />
+    <path d="M470 150v-30M470 150l22 12" fill="none" stroke="var(--ink)" strokeWidth="4" strokeLinecap="round" />
+    <path d="M434 105c-8 8-12 16-14 26M506 105c8 8 12 16 14 26" fill="none" stroke="var(--ink)" strokeWidth="3" />
+    <path d="M470 92v-14M505 104l10-10M435 104l-10-10" {...lineProps} stroke="var(--accent)" />
+    <text x="470" y="252" textAnchor="middle" fill="var(--muted)" fontSize="15">no snooze · just dance</text>
+  </Base>
+}
+
 function GridArt() {
   return <Base>
     <g stroke="var(--border-soft)" strokeWidth="2" opacity=".8">
@@ -141,7 +164,8 @@ export function ProjectArtwork({ project, className }: Props) {
       {art === 'drought' && <DroughtArt />}
       {art === 'holistic' && <HolisticArt />}
       {art === 'drowsiness' && <DrowsinessArt />}
-      {!['hirelens', 'safety', 'gesture', 'drought', 'holistic', 'drowsiness'].includes(art) && <GridArt />}
+      {art === 'move2wake' && <Move2WakeArt />}
+      {!['hirelens', 'safety', 'gesture', 'drought', 'holistic', 'drowsiness', 'move2wake'].includes(art) && <GridArt />}
     </svg>
   )
 }
